@@ -6,8 +6,6 @@ My longterm vision is to develop tools and methods that guide and support molecu
 
 I am using this repository as a log and showcase for the projects I am tinkering with.
 
-If you want to get in touch and provide suggestions on improvements you can reach me at: georgekarageorgis@gmail.com
-
 I am always keen to learn and improve.
 
 <!---
